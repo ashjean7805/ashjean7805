@@ -1,23 +1,25 @@
-# Gerome Yoo <a href="https://github.com/ashjean7805" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+# Gerome Yoo(유제진) <a href="https://github.com/ashjean7805" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 
 ## Work
 - **[ 2021.01 - Present ] : `Data Engineer`**
-    - Big Data Department, Netmarble Company, Seoul, Korea
-        - Launching Daily Game Reports & Indicators
+    - Big Data Department, **Netmarble Company**, Seoul, Korea
+        - **Launching Daily Game Reports & Indicators**
             - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Revolution, Marvel Future Revolution etc
-        - Data Science Application on Game Indicators
+        - **Data Science Application on Game Indicators**
             - Anomaly Detection on Time-Series Data
             - Generalized Decoupling Checker for any Indicators 
 - **[ 2020.01 - 2020.12 ] : `MI Analyst`**
-    - Business Incubation Team, Shilla Hotel, Seoul, Korea
+    - Business Incubation Team, **Shilla Hotel**, Seoul, Korea
         - MI Campaign Analysis
 
 ## Education
-- **[ 2017.09 - 2020.12 ] : `M.S. in Statistics`**, SunKyunKwan University, Seoul, Korea
+- **[ 2017.09 - 2020.12 ] : `M.S. in Statistics`**
+    - SunKyunKwan University, Seoul, Korea
     - Advisor : Eun Ryung Lee (Department of Statistics)
-    - Dissertation : Word2vec Word Sense Disambiguation with Clustering
-- **[ 2011.03 - 2017.08 ] : `B.S. in Culinary Art & Foodservice Management`**, Kyunghee University, Seoul, Korea
+    - Dissertation : [Word2vec Word Sense Disambiguation with Clustering](https://github.com/ashjean7805/Lecture_Material/blob/main/Master/Paper.pdf)
+- **[ 2011.03 - 2017.08 ] : `B.S. in Culinary Art & Foodservice Management`**
+    - Kyunghee University, Seoul, Korea
 
 ## Research Interest
 ### Data Science Applications
