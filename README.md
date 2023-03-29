@@ -29,3 +29,4 @@
 
 ## Contatct
 - **E-mail :** geromeyoo@gmail.com, geromeyoo@naver.com
+- **Blog :** [Link](https://ashjean7805.github.io/docu_blog/blog)
