@@ -14,7 +14,7 @@
         - MI Campaign Analysis
 
 ## Education
-- **[ 2017.09 - 2020.12 ] : `M.S. in Statistics`**
+- **[ 2017.09 - 2019.12 ] : `M.S. in Statistics`**
     - Department of Statistics, SunKyunKwan University, Seoul, Korea
     - Advisor : Eun Ryung Lee (Department of Statistics)
     - Dissertation : [Word2vec Word Sense Disambiguation with Clustering](https://github.com/ashjean7805/Lecture_Material/blob/main/Master/Paper.pdf)
