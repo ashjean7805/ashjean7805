@@ -27,6 +27,10 @@
 - **[ Machine/Deep Learning ] :** Forecasting, Solving Segmentation Problems in real life
 - **[ Statistical Inference ] :** Bayes Theorem, Statistical Explainability
 
+### Data Preprocess
+- **[ Imbalanced Data ] :** Undersampling, Oversampling, Bootstrap etc
+- **[ Data Cleansing ] :** prepocessing on db level, data warehousing
+
 ## Contatct
 - **E-mail :** geromeyoo@gmail.com, geromeyoo@naver.com
 - **Blog :** [Link](https://ashjean7805.github.io/docu_blog/blog)
