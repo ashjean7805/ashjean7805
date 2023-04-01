@@ -1,5 +1,6 @@
 # Gerome Yoo(유제진) <a href="https://github.com/ashjean7805" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
+SQL Badge, Python Badge, R Badge, Bigquery Badge
 
 ## Work
 - **[ 2021.01 - Present ] : `Data Engineer`**
