@@ -1,6 +1,8 @@
 # Gerome Yoo(유제진) <a href="https://github.com/ashjean7805" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=Google&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+<img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=Google&logoColor=white">
 
 ## Work
 - **[ 2021.01 - Present ] : `Data Engineer`**
