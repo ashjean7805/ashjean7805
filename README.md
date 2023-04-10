@@ -33,9 +33,9 @@
 - **[ Data Cleansing ] :** prepocessing on db level, data warehousing
 
 ## Certificate
-- **[ SQLD ] :** Undersampling, Oversampling, Bootstrap etc
-- **[ ADsP ] :** prepocessing on db level, data warehousing
-- **[ DAsP ] :** prepocessing on db level, data warehousing
+- **[ SQLD ] :** SQL Developer
+- **[ ADsP ] :** Advanced Data Analytics Semi-Professional
+- **[ DAsP ] :** Data Architecture Semi-Professional
 
 ## Contatct
 - **E-mail :** geromeyoo@gmail.com, geromeyoo@naver.com
