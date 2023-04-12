@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=Google&logoColor=white">
 
 ## Work
-- **[ 2021.01 - Present ] : `Data Engineer`**
+- **[ 2021.01 - Present ] : `Data Engineer`,`BI Engineer` **
     - Big Data Department, **Netmarble Company**, Seoul, Korea
         - **Launching Daily Game Reports & Indicators**
             - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Revolution, Marvel Future Revolution etc
