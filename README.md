@@ -5,11 +5,20 @@
 ## Work
 - **[ 2021.01 - Present ] : `Data Engineer`** , **`BI Engineer`**
     - Big Data Department, **Netmarble Company**, Seoul, Korea
+        - **Data Modeling**
+            - Building Data Models & Pipelines
+            - Data Preprocess & Cleansing
+        - **Data Science Application on Game Indicators**
+            - Anomaly Detection
+                - Outlier detection on BI Time Series data 
+                - Detecting Ad-Fraud Users
+            - Decoupling Indicator for any Indicators
         - **Launching Daily Game Reports & Indicators**
             - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Revolution, Marvel Future Revolution etc
-        - **Data Science Application on Game Indicators**
-            - Anomaly Detection on Time-Series Data
-            - Generalized Decoupling Checker for any Indicators 
+            - Daily Reports & Indicators
+                - Building and Modifying Unified Data Models and Pipelines for reports & indicators
+            - Specialized Reports & Indicators  
+                - Building Game specified data models and reports & indicators
 - **[ 2020.01 - 2020.12 ] : `MI Analyst`**
     - Business Incubation Team, **Shilla Hotel**, Seoul, Korea
         - MI Campaign Analysis
