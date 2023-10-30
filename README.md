@@ -3,21 +3,21 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/bigquery-4285F4?style=for-the-badge&logo=Google&logoColor=white">
 
 ## Work Experience
-- **[ 2021.01 - Present ] : `Data Engineer`** , **`BI Engineer`**
+- **[ 2021.01 - Present ] : `Analytics Engineer`**
     - Big Data Department, **Netmarble Company**, Seoul, Korea
         - **Data Modeling**
             - Building Data Models & Pipelines
             - Data Preprocess & Cleansing
-        - **Data Science Application on Game Indicators**
+        - **Statistical Application on Game Index**
             - Anomaly Detection
                 - Outlier detection on BI Time Series data 
                 - Detecting Ad-Fraud Users
             - Decoupling Indicator for any Indicators
-        - **Launching Daily Game Reports & Indicators**
-            - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Revolution, Marvel Future Revolution etc
-            - Daily Reports & Indicators
-                - Building and Modifying Unified Data Models and Pipelines for reports & indicators
-            - Specialized Reports & Indicators  
+        - **Launching Daily Game Index Reports**
+            - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Series(Idle Adventure, Revolution etc), Marvel Future Revolution etc
+            - Daily Index Reports
+                - Building and Modifying Unified Data Models and Pipelines for index reports
+            - Specialized Index Reports
                 - Building Game specified data models and reports & indicators
 - **[ 2020.01 - 2020.12 ] : `MI Analyst`**
     - Business Incubation Team, **Shilla Hotel**, Seoul, Korea
