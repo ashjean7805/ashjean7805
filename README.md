@@ -8,6 +8,7 @@
         - **Data Modeling**
             - Building Data Models & Pipelines
             - Data Preprocess & Cleansing
+            - Data Migration to Bigquery from others
         - **Statistical Application on Game Index**
             - Anomaly Detection
                 - Outlier detection on BI Time Series data 
