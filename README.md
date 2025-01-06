@@ -32,16 +32,6 @@
 - **[ 2011.03 - 2017.08 ] : `B.S. in Culinary Art & Foodservice Management`**
     - Department of Hospitality and Tourism, **Kyunghee University**, Seoul, Korea
 
-## Research Interest
-### Data Science Applications
-- **[ Time Series Analysis ] :** Forecasting, Decomposition of Time Series
-- **[ Machine/Deep Learning ] :** Forecasting, Solving Segmentation Problems in real life
-- **[ Statistical Inference ] :** Bayes Theorem, Statistical Explainability
-
-### Data Preprocess
-- **[ Imbalanced Data ] :** Undersampling, Oversampling, Bootstrap etc
-- **[ Data Cleansing ] :** prepocessing on db level, data warehousing
-
 ## Certificate
 - **[ SQLD ] :** SQL Developer (2020.10 ~ )
 - **[ ADsP ] :** Advanced Data Analytics Semi-Professional (2020.09 ~ )
