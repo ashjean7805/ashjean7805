@@ -33,9 +33,9 @@
     - Department of Hospitality and Tourism, **Kyunghee University**, Seoul, Korea
 
 ## Certificate
+- **[ DAsP ] :** Data Architecture Semi-Professional (2022.07 ~ )
 - **[ SQLD ] :** SQL Developer (2020.10 ~ )
 - **[ ADsP ] :** Advanced Data Analytics Semi-Professional (2020.09 ~ )
-- **[ DAsP ] :** Data Architecture Semi-Professional (2022.07 ~ )
 
 ## Contatct
 - **E-mail :** geromeyoo@gmail.com, geromeyoo@naver.com
