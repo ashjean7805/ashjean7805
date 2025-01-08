@@ -8,18 +8,18 @@
         - **Data Modeling**
             - Building Data Models & Pipelines
             - Data Preprocess & Cleansing
-            - Data Migration to Bigquery from others
-        - **Statistical Application on Game Index**
+            - Data Migration to Bigquery from Hive
+        - **Game Performance Indicators**
+            - Building and Modifying indicator reports
+            - Specialized Analysis Reports
+                - Building Game specified data models and reports & indicators
+        - **Statistical Analysis**
+            - Update Impact Analysis
+                - Causal Impact Model     
             - Anomaly Detection
                 - Outlier detection on BI Time Series data 
                 - Detecting Ad-Fraud Users
-            - Decoupling Indicator for any Indicators
-        - **Launching Daily Game Index Reports**
-            - Games : Nino-Kuni, A3, Golden Bros, Seven Knights Series(Idle Adventure, Revolution etc), Marvel Future Revolution etc
-            - Daily Index Reports
-                - Building and Modifying Unified Data Models and Pipelines for index reports
-            - Specialized Index Reports
-                - Building Game specified data models and reports & indicators
+            - Building Decoupling Indicator for Indicators
 - **[ 2020.01 - 2020.12 ] : `MI Analyst`**
     - Business Incubation Team, **Shilla Hotel**, Seoul, Korea
         - MI Campaign Analysis
@@ -36,6 +36,7 @@
 - **[ DAsP ] :** Data Architecture Semi-Professional (2022.07 ~ )
 - **[ SQLD ] :** SQL Developer (2020.10 ~ )
 - **[ ADsP ] :** Advanced Data Analytics Semi-Professional (2020.09 ~ )
+- **[ TOEFL ] :** 101(expired)
 
 ## Contatct
 - **E-mail :** geromeyoo@gmail.com, geromeyoo@naver.com
